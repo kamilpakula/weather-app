@@ -1,0 +1,26 @@
+.Result {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 500px;
+    width: 400px;
+    background: rgb(80, 176, 187);
+    background: linear-gradient(0deg, rgba(80, 176, 187, 1) 0%, rgba(249, 237, 55, 1) 100%);
+    margin: 30px;
+
+}
+
+.result__city {
+    margin-bottom: 50px;
+}
+
+
+
+.result__element {
+    padding: 10px;
+}
+
+strong {
+    margin-left: 10px;
+}
